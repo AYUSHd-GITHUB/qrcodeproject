@@ -1,0 +1,50 @@
+body{
+    background-color: hsl(220,15%,55%);
+    justify-content: center;
+}
+.midsection{
+    background-color: hsl(0,0%,100%);
+    width: 375px;
+    margin-top: 25%;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    padding: 4%;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#qrcode {
+    width: 375px;
+    height: 375px;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    margin-left: -36px;
+}
+@font-face {
+    font-family:Outfit;
+    src: url(https://fonts.google.com/specimen/Outfit);
+
+  }
+p1{
+    
+    font-family: Outfit;
+    text-align: center;
+    font-weight: 700;
+
+}
+p2{
+    font-size: 25px;
+    font-family: Outfit;
+    text-align: center;
+    font-weight: 400;
+}
+
+  
+
